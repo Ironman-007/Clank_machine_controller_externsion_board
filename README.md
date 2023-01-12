@@ -3,5 +3,5 @@
 The Clank machine controller externsion board design, the functions include:
 
 - Limit switch connections;
-- Power supply & control;;
+- Power supply & control;
 - Spindle motor control module;
